@@ -1,0 +1,15 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/career-recommendation-system/backend",
+    "${workspaceFolder}/career-recommendation-system/backend/app",
+    "${workspaceFolder}/backend",
+    "${workspaceFolder}/backend/app"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/career-recommendation-system/backend",
+    "${workspaceFolder}/career-recommendation-system/backend/app",
+    "${workspaceFolder}/backend",
+    "${workspaceFolder}/backend/app"
+  ],
+  "python.terminal.executeInFileDir": true
+}
